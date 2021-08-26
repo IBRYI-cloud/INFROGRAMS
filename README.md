@@ -1,1 +1,1 @@
-# INFROGRAMS
+# ProyectoInfogram
