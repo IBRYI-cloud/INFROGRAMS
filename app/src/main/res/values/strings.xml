@@ -2,4 +2,8 @@
     <string name="app_name">Infom</string>
     <string name="nombre_de_usuario">Nombre de usuario</string>
     <string name="contrasena">Contraseña</string>
+    <string name="franz_flores_cardview">Franz Flores</string>
+    <string name="hace_cardview">Hace</string>
+    <string name="dias_cardview">" 4 dias</string>
+    <string name="me_gusta_cardview">10 me gusta</string>
 </resources>
